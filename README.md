@@ -1,5 +1,5 @@
+# Simple Port Manager ![CI](https://github.com/syedabdhalim/port-manager/actions/workflows/ci.yml/badge.svg)  [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/syedabdhalim/port-manager/issues)
 
-# Simple Port Manager
 
 Simple Port Manager is a Windows Forms application written in C# that lists all the ports currently in use on the local machine. The application allows users to view details about the ports, including the protocol, local address, local port, state, PID, and process name. Additionally, users can search for specific ports and kill processes associated with those ports.
 
